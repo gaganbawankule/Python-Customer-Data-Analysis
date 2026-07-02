@@ -71,6 +71,22 @@ Python-Customer-Data-Analysis/
 
 ---
 
+## 📊 Project Visualizations
+
+### Customer Segment Distribution
+![Segment Distribution](images/segment_distribution.png)
+
+### Revenue Contribution
+![Revenue Contribution](images/revenue_contribution.png)
+
+### Recency vs Monetary
+![Recency vs Monetary](images/recency_vs_monetary.png)
+
+### Pareto Analysis
+![Pareto Analysis](images/pareto_analysis.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Gagan Bawankule**
